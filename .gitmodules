@@ -1,3 +1,9 @@
 [submodule "RAG_Pipeline"]
 	path = RAG_Pipeline
 	url = https://github.com/CTUStudyMate/RAG_Pipeline.git
+
+[submodule "RAG_Pipeline_Evaluation"]
+	path = rag_eval
+	url = https://github.com/CTUStudyMate/RAG-Pipeline-Evaluation.git
+
+
