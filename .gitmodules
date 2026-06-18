@@ -7,3 +7,6 @@
 [submodule "PG_Parade"]
 	path = PG_Parade
 	url = https://github.com/CTUStudyMate/RAG_DB.git
+[submodule "MainBackend"]
+	path = MainBackend
+	url = https://github.com/CTUStudyMate/Main_Backend.git
