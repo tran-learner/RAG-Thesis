@@ -10,6 +10,6 @@
 [submodule "MainBackend"]
 	path = MainBackend
 	url = https://github.com/CTUStudyMate/Main_Backend.git
-[submodule "Frontend_Web"]
-	path = Frontend_Web
-	url = https://github.com/tran-learner/Frontend_Web
+[submodule "rag_web"]
+	path = rag_web
+	url = https://github.com/CTUStudyMate/RAG_Web.git

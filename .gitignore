@@ -1,3 +1,4 @@
 .worktrees/
 *.worktrees/
 ./agents
+/Frontend_Web/
